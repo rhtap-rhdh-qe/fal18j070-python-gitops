@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: fal18j070-python-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/fal18j070-python-gitops
